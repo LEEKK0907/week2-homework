@@ -1,13 +1,6 @@
 {
-	"folders": [
-		{
-			"name": "week2-homework",
-			"path": "."
-		},
-		{
-			"name": "作業",
-			"path": "../../作業"
-		}
-	],
-	"settings": {}
+	"folders": [],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
 }
