@@ -1,5 +1,9 @@
 {
-	"folders": [],
+	"folders": [
+		{
+			"path": "../../第二週作業"
+		}
+	],
 	"settings": {
 		"liveServer.settings.port": 5502
 	}
